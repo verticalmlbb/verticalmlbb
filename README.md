@@ -56,9 +56,6 @@ I believe that every project is an opportunity to learn something new. 🚀
 
 ## 📊 GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=verticalmlbb&show_icons=true&hide_border=true&rank_icon=github" alt="Hafidz's GitHub Stats" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=verticalmlbb&hide_border=true" alt="GitHub Streak" />
