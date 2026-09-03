@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Hafidz Nurfikri Ramadhani
+<h1 align="center">
+  👋 Hi, I'm Hafidz Nurfikri Ramadhani
+</h1>
 
-### 💻 Software Engineering Student | Web Developer in Progress
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Web+Developer+in+Progress;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 > Passionate about technology, web development, and continuously learning new things in the world of programming.
 
