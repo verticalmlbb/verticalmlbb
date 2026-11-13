@@ -26,12 +26,14 @@ I believe that every project is an opportunity to learn something new. 🚀
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
 </p>
 
 **Currently working with:**
 
 - 🌐 HTML5
 - 🎨 CSS3
+- 🛠️ JavaScript
 
 ---
 
